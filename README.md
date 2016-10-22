@@ -9,11 +9,11 @@
 #####SH
 
 
-'''css
-hi
-hello
-anyeong
-'''
+```css
+#button {
+    border: none;
+}
+```
 
 [google](https://drive.google.com/file/d/0B5dltc1Pk1AJTUtERHUtcGMxOWs/view?usp=sharing)
 
